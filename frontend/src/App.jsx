@@ -1,15 +1,15 @@
 import "./App.css";
 import { useState } from "react";
 import { Routes, Route, useNavigate } from "react-router-dom";
-import SearchResults from "./pages/SearchResults";
-import SeatSelection from "./pages/SeatSelection";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
-import PassengerDetails from "./pages/PassengerDetails";
-import Payment from "./pages/Payment";
-import BookingConfirmation from "./pages/BookingConfirmation";
-import MyBookings from "./pages/MyBookings";
-import Cancellation from "./pages/Cancellation";
+import SearchResults from "./Pages/SearchResults";
+import SeatSelection from "./Pages/SeatSelection";
+import Register from "./Pages/Register";
+import Login from "./Pages/Login";
+import PassengerDetails from "./Pages/PassengerDetails";
+import Payment from "./Pages/Payment";
+import BookingConfirmation from "./Pages/BookingConfirmation";
+import MyBookings from "./Pages/MyBookings";
+import Cancellation from "./Pages/Cancellation";
 
 
 /* =========================================================
